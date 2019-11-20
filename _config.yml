@@ -1,13 +1,13 @@
 # Site settings
-title: BLyu's Blog
-SEOTitle: 吕波的博客 | Bo Lyu Blog
+title: ICSA's Blog
+SEOTitle: ICSA的博客 | Bo Lyu Blog
 header-img: img/post-bg-desk.jpg
-email: blyucs@outlook.com
+email: icsa@outlook.com
 description: "Every failure is leading towards success."
 keyword: "Machine Learning,Deep Learning"
-url: "http://blyucs.github.io"          # your host, for absolute URL
+url: "http://icsalab.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/blyucs/blyucs.github.io.git" # you code repository
+github_repo: "https://github.com/" # you code repository
 
 # Sidebar settings
 sidebar: false                           # whether or not using Sidebar.
@@ -19,8 +19,8 @@ sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's us
 # SNS settings
 RSS: false
 # weibo_username:     qiubaiying
-zhihu_username:     blyucs
-github_username:    blyucs
+zhihu_username:     none
+github_username:    none
 facebook_username:  none
 jianshu_username:   none
 #twitter_username:   qiubaiying
@@ -64,9 +64,9 @@ gitalk:
   enable: true    #是否开启Gitalk评论
   clientID: f2c84e7629bb1446c1a4                            #生成的clientID
   clientSecret: ca6d6139d1e1b8c43f8b2e19492ddcac8b322d0d    #生成的clientSecret
-  repo: blyucs.github.io    #仓库名称
-  owner: blyucs    #github用户名
-  admin: blyucs
+  repo: icsalab.github.io    #仓库名称
+  owner: icsalab    #github用户名
+  admin: icsalab
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
